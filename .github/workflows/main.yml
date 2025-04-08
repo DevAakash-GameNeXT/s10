@@ -26,4 +26,4 @@ jobs:
 
     - name: Run Playwright Script
       run: |
-        python your_script_name.py
+        python main.py
